@@ -1,3 +1,7 @@
+---
+permalink: /Product1.html
+---
+
 # Product1
 
 # Purpose
